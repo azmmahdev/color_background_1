@@ -1,0 +1,48 @@
+body {
+    font-size: 15pt;
+}
+
+h2{
+  height: 400px;
+  background: linear-gradient(120deg,blue,black);
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 80px;
+  
+}
+
+#m1{
+  height: 600px;
+  background: linear-gradient(135deg,red,white);
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 120px;
+  padding-top: 160px;
+}
+
+#m2 {
+  height: 600px;
+  background: linear-gradient(135deg, yellow, white);
+}
+
+#m3 {
+  height: 600px;
+  background: linear-gradient(135deg, green, white);
+}
+
+div {
+  height: 600px;
+  background: linear-gradient(135deg, black, white);
+}
+
+#d5{
+  height: 600px;
+  background: linear-gradient(135deg, blue, white);
+}
+#d6{
+  height: 600px;
+  background: linear-gradient(135deg, Violet, white);
+}

@@ -3,13 +3,11 @@ body {
 }
 
 h2{
-  height: 400px;
-  background: linear-gradient(120deg,blue,black);
+  height: 291px;
+  background: linear-gradient(100deg,blue 34%,black 48%);
   color: white;
-  font-size: 60px;
+  font-size: 80px;
   text-align: center;
-  padding-top: 80px;
-  
 }
 
 #m1{
@@ -42,7 +40,28 @@ div {
   height: 600px;
   background: linear-gradient(135deg, blue, white);
 }
+
 #d6{
   height: 600px;
   background: linear-gradient(135deg, Violet, white);
+}
+
+#d7{
+  height: 600px;
+  background: linear-gradient(135deg, LightGray, white);
+}
+
+#d8{
+  height: 600px;
+  background: linear-gradient(135deg, Orange, white);
+}
+
+#d9{
+  height: 600px;
+  background: linear-gradient(135deg, DodgerBlue, white);
+}
+
+#d10{
+  height: 600px;
+  background: linear-gradient(135deg, aqua, white);
 }
